@@ -1,2 +1,2 @@
-# Project-1
+# WeatherForecast
 Weather forecasting website
